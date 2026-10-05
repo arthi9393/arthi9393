@@ -249,16 +249,18 @@ Currently working on improving my programming, DSA and AI/ML skills.
 <img src="https://streak-stats.demolab.com/?user=arthi9393&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 <hr>
 
-<h2 align="center">📈 GitHub Activity</h2>
+<h2 align="center">🐍 My Contributions</h2>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthi9393&bg_color=000000&color=ffffff&line=00ff66&point=ffffff&area=true&hide_border=true"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthi9393/arthi9393/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthi9393/arthi9393/output/github-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/arthi9393/arthi9393/output/github-snake.svg">
+  </picture>
 </p>
+
 
 <hr>
 
