@@ -22,7 +22,7 @@ jobs:
           github_user_name: arthi9393
           outputs: |
             dist/github-snake.svg?palette=github-light&color_snake=#00D9FF&color_dots=#FFFFFF,#D9FBE5,#88E89F,#39C963,#16A34A
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00D9FF&color_dots=#FFFFFF,#D9FBE5,#88E89F,#39C963,#16A34A
 
       - name: Push snake files
         uses: crazy-max/ghaction-github-pages@v3.1.0
