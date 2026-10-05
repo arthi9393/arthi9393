@@ -19,10 +19,11 @@ jobs:
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
-          github_user_name: arthi939
-            outputs: |
-  dist/github-snake.svg?color_snake=%2300D9FF&color_dots=%23FFFFFF,%23D9FBE5,%2388E89F,%2339C963,%2316A34A
-  dist/github-snake-dark.svg?color_snake=%2300D9FF&color_dots=%23FFFFFF,%23D9FBE5,%2388E89F,%2339C963,%2316A34A
+          github_user_name: arthi9393
+          outputs: |
+            dist/github-snake.svg?palette=github-light
+            dist/github-snake-dark.svg?palette=github-light
+
       - name: Push snake files
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
