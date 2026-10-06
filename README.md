@@ -26,7 +26,7 @@
 - 💻 Practicing **C & Java**
 - 🧠 Learning **Data Structures & Algorithms**
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 📊 Interested in **Data Science**
+- 📊 Interested in **Data Science & AI**
 - 🚀 Building practical projects
 - 📚 Working on technical certifications
 - 🎯 Goal: **Machine Learning Engineer**
